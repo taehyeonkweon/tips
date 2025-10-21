@@ -10,3 +10,5 @@
 ```bash
 sudo apt install ttf-mscorefonts-installer -y
 ```
+### Screen recording
+Control + Alt + Shift + R to start/stop recording.
